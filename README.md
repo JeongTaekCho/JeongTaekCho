@@ -24,5 +24,5 @@
 
 ## Gibhub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongTaekCho)](https://github.com/JeongTaekCho/github-readme-stats)
+![JeongTaekCho GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongTaekCho&show_icons=true&theme=radical)
 
