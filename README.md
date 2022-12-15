@@ -1,5 +1,8 @@
 ### HELLO WORLD I'm JeongTaek 🌱
 
+내가 가장 좋아하는 캐릭터는 깜장이고
+내가 가장 좋아하는 음식은 라면이다
+
 <!--
 **JeongTaekCho/JeongTaekCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
