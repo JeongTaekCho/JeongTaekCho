@@ -1,15 +1,15 @@
-# 💕 Hi, I'm Frotend-developer - Jeong-Taek
-<img src="https://user-images.githubusercontent.com/92679073/207907132-a85fbad1-f42e-44fc-a327-f965ec947fd8.jpeg"  width="400" />
+# 👦🏻 조정택 Jeong Taek Cho 
 
-## 👀 SNS
-<div align="center">
-  <a href="https://www.instagram.com/j._.taek/"><img src="https://user-images.githubusercontent.com/92679073/207911684-d820f714-19d8-4337-9ab5-f01faeeda4da.png"  width="200" /></a>
-  <a href="https://velog.io/@diclfn42"><img src="https://user-images.githubusercontent.com/92679073/207911708-48700a71-86f3-4b47-8b3a-cd65a128b663.jpeg"  width="200"  /></a>
-</div>
+👩‍💻 Frontend Developer<br />
+👩‍🎓 Wanted-Preonboarding ~ing
+
+## Gibhub Stats
+
+  ![JeongTaekCho GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongTaekCho&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongTaekCho&layout=compact&theme=radical)
 
 
-<br/><br/>
-
+<br /> <br/>
 
 ## 👉 Tech-Stack
 <div align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -22,7 +22,17 @@
 
 <br /> <br/>
 
-## Gibhub Stats
+## 👀 SNS
+<div align="center">
+  <a href="https://www.instagram.com/j._.taek/"><img src="https://user-images.githubusercontent.com/92679073/207911684-d820f714-19d8-4337-9ab5-f01faeeda4da.png"  width="200" /></a>
+  <a href="https://velog.io/@diclfn42"><img src="https://user-images.githubusercontent.com/92679073/207911708-48700a71-86f3-4b47-8b3a-cd65a128b663.jpeg"  width="200"  /></a>
+</div>
 
-![JeongTaekCho GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongTaekCho&show_icons=true&theme=radical)
+
+<br/><br/>
+
+
+
+
+
 
