@@ -14,6 +14,13 @@
 
 <br /> <br/>
 
+## 👉 ~Studying
+<div align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></div>
+
+<br /> <br/>
+
 ## 👉 Gibhub Stats
 
   ![JeongTaekCho GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongTaekCho&show_icons=true&theme=radical)
