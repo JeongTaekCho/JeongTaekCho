@@ -1,7 +1,7 @@
 # 👦🏻 조정택 Jeong Taek Cho 
 
 👩‍💻 Frontend Developer<br />
-👩‍🎓 Wanted-Preonboarding 
+👩‍🎓 MERN-CLASS ~ing
 
 ## 👉 Tech-Stack
 <div align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
