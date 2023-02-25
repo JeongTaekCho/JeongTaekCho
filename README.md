@@ -1,7 +1,7 @@
 # 👦🏻 조정택 Jeong Taek Cho 
 
 👩‍💻 Frontend Developer<br />
-👩‍🎓 MERN-CLASS ~ing
+👩‍🎓 MERN-CLASS ~ing <br />
 👩‍🎓 Elice AI Track ~ing
 
 ## 👉 Tech-Stack
