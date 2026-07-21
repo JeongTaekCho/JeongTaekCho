@@ -33,7 +33,7 @@ AI 도구를 적극적으로 활용하며, 더 빠르고 단단한 개발 흐름
 
 | Period | Company | Position |
 | --- | --- | --- |
-| 2024.07 ~ ing | 지지옥션 | Frontend Developer |
+| 2024.07 ~ 2026.07 | 지지옥션 | Frontend Developer |
 
 <br />
 
